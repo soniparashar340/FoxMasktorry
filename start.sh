@@ -10,7 +10,7 @@ Version - 0.2.6-Heroku-Master-Finalised.
 
 CREATED BY - Yash Khadse
 
-KANGED AND MODDED BY KANGERSHUB.....
+KANGED AND MODDED BY COOLDUDE.....
 
 "
 
