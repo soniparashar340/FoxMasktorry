@@ -46,9 +46,9 @@ except:
 
         # MEGA CONFIG
         MEGA_ENABLE = True
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
+        MEGA_API = "s5Y10S4b"
+        MEGA_UNAME = "cooldudex0369@gmail.com"
+        MEGA_PASS = "parasharsoni"
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
@@ -86,7 +86,7 @@ except:
 
         # Set this to your bot username if you want to add the username of your bot at the end of the commands like
         # /leech@TorToolkitBot so the value will be @TorToolkitBot
-        BOT_CMD_POSTFIX = ""
+        BOT_CMD_POSTFIX = "@TTK_X_FT_BOT"
 
         # Time out for the status Delete.
         STATUS_DEL_TOUT = 20
