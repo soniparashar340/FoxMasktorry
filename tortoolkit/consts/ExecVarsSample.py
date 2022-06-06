@@ -6,23 +6,23 @@ except:
         # Set true if its VPS
         IS_VPS = False
 
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "fda406cc4f648c303a0fb77255f2a026"
+        API_ID = 2712818
+        BOT_TOKEN = "5510665590:AAFcFzMFCMhFJXqGthXX7ZGMlipMlUbc4tw"
+        BASE_URL_OF_BOT = "https://t.me/ttl_x_ft_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [-1001511877602, -1001154122336]
+        OWNER_ID = 1517181772
 
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
 
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 10
+        EDIT_SLEEP_SECS = 5
 
         # Telegram Upload Limit (in bytes)
         TG_UP_LIMIT = 1700000000
@@ -37,15 +37,15 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DATABASE_URL = (
-            "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+       # DATABASE_URL = (
+            ""
         )
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        # DATABASE_URL = "dbname=tortk user=postgres password=your-pass host=db port=5432"
+        DATABASE_URL = "mongodb+srv://Userbot:Userbot123@cluster0.ofi5x.mongodb.net/?retryWrites=true&w=majority"
 
         # MEGA CONFIG
-        MEGA_ENABLE = False
+        MEGA_ENABLE = True
         MEGA_API = ""
         MEGA_UNAME = None
         MEGA_PASS = None
