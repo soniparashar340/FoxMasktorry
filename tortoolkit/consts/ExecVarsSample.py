@@ -42,7 +42,7 @@ except:
         )
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        DATABASE_URL = "mongodb+srv://Userbot:Userbot123@cluster0.ofi5x.mongodb.net/?retryWrites=true&w=majority"
+        DATABASE_URL = "postgres://xplqssywfuztot:8e5b57b98783704be0cb5577225d779db3d97f1c2a21d7ef7819f357a6879dbc@ec2-44-194-54-123.compute-1.amazonaws.com:5432/d826nb3pb6rnkg"
 
         # MEGA CONFIG
         MEGA_ENABLE = True
