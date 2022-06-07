@@ -37,4 +37,4 @@ echo "ttk-x engine starting now --------"
 
 
 aria2c --conf-path="aria2.conf" -D
-./alive.sh & gunicorn tortoolkit:start_server --bind 0.0.0.0:$PORT --worker-class aiohttp.GunicornWebWorker & qbittorrent-nox -d & python3 -m tortoolkit
+./alive.sh & gunicorn tortoolkit:start_server --bind 0.0.0.0:$PORT --web-class aiohttp.GunicornWebWorker & qbittorrent-nox -d & python3 -m tortoolkit
