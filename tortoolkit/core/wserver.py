@@ -535,20 +535,20 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @bipuldey19-Telegram-->
+   <!--© Designed and coded by @C_O_O_L_DUDE-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://te.legra.ph/file/6b8afaec3bc6d29a409aa.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub">
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/TTK_X_Bot">
+          <h2 class="name">TTK X</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/https://github.com/KangersHub/TorToolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/https://github.com/Yash-dk/TTK X"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/TTK_X_bot"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
