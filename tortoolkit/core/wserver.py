@@ -27,7 +27,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg">
+    <link rel="icon" href="https://te.legra.ph/file/6b8afaec3bc6d29a409aa.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -196,20 +196,20 @@ input[type="submit"]:hover, input[type="submit"]:focus{
 </style>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @C_O_O_L_DUDE-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://te.legra.ph/file/6b8afaec3bc6d29a409aa.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub"> 
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/TTK_X_FT_Bot"> 
+          <h2 class="name">TTK X</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/KangersHub/TortoolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/Yash-dk/Tortoolkit-telegram"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/ttk_x_bot"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -721,7 +721,7 @@ async def set_priority(request):
 @routes.get("/")
 async def homepage(request):
     return web.Response(
-        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolkitX on <a href="https://github.com/KangersHub/TorToolkitX">@GitHub</a></h2>\n<h2>🥲Join KangersHub <a href="https://t.me/KangersHub">TG channel</a></h2>',
+        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TTK X on <a href="https://github.com/Yash-dk/TorToolkit-telegram">@GitHub</a></h2>\n<h2>👀 Join Torrent leech zone <a href="https://t.me/+QIlyq0JLyzU1Zjg1">TG Group</a></h2>',
         content_type="text/html",
     )
 
