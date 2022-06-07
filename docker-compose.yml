@@ -1,7 +1,7 @@
 version: "3.3"
    
 services:
-  dbs:
+  db:
     image: postgres
     environment:
       - POSTGRES_DB=tortk
